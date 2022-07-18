@@ -22,7 +22,7 @@ const Header = () => {
             </a>
           </div>
           <div className="col-auto">
-            <h2 clas>The Sparks Foundation</h2>
+            <h2 clas>Te Sparks Foundation</h2>
           </div>
           {menu && (
             <div onClick={show} className="col-12 menu-icon text-center">
