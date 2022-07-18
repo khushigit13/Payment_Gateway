@@ -2,7 +2,7 @@
 
 
 ## Demo
-Here is a working live demo :  https://tsfdonation.netlify.app/
+Here is a working live demo : https://tsfdonation.netlify.app/
 
 ## Built with 
 
