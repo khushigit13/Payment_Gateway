@@ -25,7 +25,12 @@ const Data4 = ({ tm1, tm2 }) => {
             </p>
           </div>
           <div className="col mx-2">
-            <img style={{ borderRadius: "50%" }} src={tm1} width={200} />
+            <img
+              style={{ borderRadius: "50%" }}
+              src={tm1}
+              width={200}
+              alt=" "
+            />
           </div>
         </div>
         <h1 className="mt-5">Management Team</h1>
@@ -48,7 +53,12 @@ const Data4 = ({ tm1, tm2 }) => {
             </p>
           </div>
           <div className="col mx-2">
-            <img style={{ borderRadius: "50%" }} src={tm2} width={200} />
+            <img
+              style={{ borderRadius: "50%" }}
+              src={tm2}
+              width={200}
+              alt=" "
+            />
           </div>
         </div>
       </div>

@@ -1,6 +1,6 @@
 import React from "react";
 
-const Data5 = ({ p1, p2, p3}) => {
+const Data5 = ({ p1, p2, p3 }) => {
   return (
     <div className="data5">
       <div className="container">
@@ -20,13 +20,13 @@ const Data5 = ({ p1, p2, p3}) => {
             </p>
           </div>
           <div className="col mx-2">
-            <img src={p1} width={200} />
+            <img src={p1} width={200} alt="" />
           </div>
           <a href="https://aine.ai/">
-          <div className="btn btn-warning">VISIT SITE</div>
+            <div className="btn btn-warning">VISIT SITE</div>
           </a>
         </div>
-        <hr/>
+        <hr />
         <h1 className="mt-5">Xaltius</h1>
         <div className="row">
           <div className="col-lg-8 col-md-auto">
@@ -43,13 +43,13 @@ const Data5 = ({ p1, p2, p3}) => {
             </p>
           </div>
           <div className="col mx-2">
-            <img src={p2} width={200} />
+            <img src={p2} width={200} alt="" />
           </div>
           <a href="https://xaltius.tech/">
-          <div className="btn btn-warning">VISIT SITE</div>
+            <div className="btn btn-warning">VISIT SITE</div>
           </a>
         </div>
-        <hr/>
+        <hr />
         <h1 className="mt-5">Code For India</h1>
         <div className="row">
           <div className="col-lg-8 col-md-auto">
@@ -66,10 +66,10 @@ const Data5 = ({ p1, p2, p3}) => {
             </p>
           </div>
           <div className="col mx-2">
-            <img src={p3} width={200} />
+            <img src={p3} width={200} alt="" />
           </div>
           <a href="http://codefor.in/">
-          <div className="btn btn-warning">VISIT SITE</div>
+            <div className="btn btn-warning">VISIT SITE</div>
           </a>
         </div>
       </div>
